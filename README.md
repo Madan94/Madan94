@@ -2,7 +2,7 @@
 - 👀 I’m interested in user-friendly attractive websites for business
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate with web developers.
-- 📫 How to reach me - madhanx.web
+- 📫 How to reach me - madhanat94@gmail.com
 
 
 <!---
