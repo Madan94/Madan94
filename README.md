@@ -21,14 +21,13 @@ Currently, I'm building **Drivygo**, a peer-to-peer ride-sharing platform revolu
 ---
 
 ## 🏆 Hackathon Wins
-- **Web Development Hackathon Winner** 🥇
-- **Blockchain Web3 Hackathon Winner** 🥇
-- **Participation in Multiple High-Stakes Competitions**
+- **Web Development Hackathon Winner - Manipal University, Jaipur** 🥇
+- **Blockchain Web3 Hackathon Winner - Tezos India Hackathon** 🥇
+- **Top 5 - East India Blockchain Submit, IIT Kharagpur**
 
 ---
 
 ## 🔭 What I'm Working On
-- **Drivygo**: A ride-sharing platform.
 - Exploring new **Web3** solutions to transform industries.
 - Building sleek, scalable full-stack applications that solve real-world challenges.
 
