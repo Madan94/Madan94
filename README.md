@@ -64,10 +64,6 @@
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madan94&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Madhan GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madan94&theme=tokyonight" alt="Madhan Streak Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madan94&theme=tokyonight&layout=compact" alt="Top Languages" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Madan94&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
