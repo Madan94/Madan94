@@ -64,10 +64,6 @@
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madan94&theme=tokyonight&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Madan94&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madan94&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
