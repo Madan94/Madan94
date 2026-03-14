@@ -51,16 +51,6 @@
 
 ---
 
-## Live Coding Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madan0109&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 3D Contribution Graph
 
 <p align="center">
