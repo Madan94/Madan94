@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - Building scalable tech products
 - Full Stack Developer
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,python,solidity,docker,linux,git,postgres,mongodb,fastapi,kubernetes"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## ⏱ Live Coding Stats
+## Live Coding Stats
 
 <p align="center">
 
@@ -61,27 +61,7 @@
 
 ---
 
-## 🎧 Spotify Now Playing
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madan94&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-## 🌌 3D Contribution Graph
+## 3D Contribution Graph
 
 <p align="center">
 
@@ -91,7 +71,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 
@@ -101,7 +81,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -121,7 +101,7 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="center">
 
@@ -131,7 +111,7 @@
 
 ---
 
-## 💡 Dev Quote
+## Dev Quote
 
 <p align="center">
 
@@ -141,6 +121,6 @@
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 <p>Sometimes I will Cry, Why I got into Tech, Hehe...</p>
