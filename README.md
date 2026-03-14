@@ -87,10 +87,12 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Madan94/Madan94/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+<img src="https://raw.githubusercontent.com/Madan94/Madan94/output/profile-night-rainbow.svg" width="800">
+
 </p>
 
 ---
