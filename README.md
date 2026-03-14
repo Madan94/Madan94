@@ -83,15 +83,19 @@
 
 ## 🌌 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-## 🌌 3D Contribution Graph
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Madan94/Madan94/output/profile-night-rainbow.svg" width="800">
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Madan94/Madan94/output/github-contribution-grid-snake.svg">
 
 </p>
 
