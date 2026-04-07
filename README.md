@@ -8,7 +8,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500"/>
 </p>
-<
 
 ---
 
@@ -72,7 +71,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 
 ---
 
-## 🃏 Random Dev Joke
+## Random Dev Joke
 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight"/>
