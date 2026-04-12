@@ -80,14 +80,6 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 ---
 
 
-## Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Madan94/Madan94/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
