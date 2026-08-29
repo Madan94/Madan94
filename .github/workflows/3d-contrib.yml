@@ -28,3 +28,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./profile-3d-contrib
           publish_branch: output
+          keep_files: true
