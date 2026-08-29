@@ -89,29 +89,6 @@ fun_fact: "Some days I forget why I chose tech... then I ship something cool and
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Madan94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Madan94&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madan94&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://ghchart.rshah.org/00F7FF/Madan94" alt="Madan94's GitHub contribution chart" width="100%"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Madan94/Madan94/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake (dark)"/>
-<img src="https://raw.githubusercontent.com/Madan94/Madan94/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake (light)"/>
-</p>
 
 ### 🌌 3D Contribution Graph
 
