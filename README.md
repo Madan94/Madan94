@@ -97,10 +97,6 @@ fun_fact: "Some days I forget why I chose tech... then I ship something cool and
 <img src="https://raw.githubusercontent.com/Madan94/Madan94/output/profile-season.svg#gh-light-mode-only" alt="3D Contribution Graph (light)"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Madan94&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
 ### 🧩 Competitive Programming
