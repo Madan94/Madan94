@@ -98,14 +98,6 @@ fun_fact: "Some days I forget why I chose tech... then I ship something cool and
 
 ---
 
-### 🧩 Competitive Programming
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Madhanxdev?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
-
 ### 💬 Dev Corner
 
 <p align="center">
