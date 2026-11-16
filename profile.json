@@ -1,0 +1,154 @@
+{
+  "_sources": {
+    "linkedin": "User-provided LinkedIn export, Profile.pdf (5 pages), reviewed 2026-11-16. Source for name, education, roles, experience and achievements.",
+    "github": "https://github.com/Madan94 — source for avatar, portfolio, social links and public projects; reviewed 2026-11-16.",
+    "stack": "LinkedIn export, existing profile README at commit 6de2321e45221471c9ccb8988a96312fc9b9daea, and https://github.com/Madan94/zypher/blob/main/README.md.",
+    "projects": [
+      "https://github.com/Madan94/zypher/blob/main/README.md",
+      "https://github.com/Madan94/blockpay"
+    ],
+    "avatar": "https://avatars.githubusercontent.com/u/165371686?v=4",
+    "design": "https://github.com/Jitmisra/Jitmisra/tree/24dd71c93cf04a6877e0810a807dfa4a4035a131"
+  },
+  "name": "Madhanraj M",
+  "terminal_name": "madhanraj",
+  "username": "Madan94",
+  "headline": "SDE · Data Engineer · Full Stack",
+  "avatar": "assets/avatar.jpg",
+  "accessible_summary": "Madhanraj M (@Madan94), software developer and data engineer in Chennai, India. B.E. Computer Science and Engineering at Chennai Institute of Technology, 2024–2028. OpenAI Student Collective Campus Lead and McKinsey Forward participant. Previously interned at RenewCred, Aeroin SpaceTech and Genius Tute. Works with React, Angular, Next.js, TypeScript, Python, Solidity, Node.js, OpenTelemetry, Grafana, AWS and Docker. Projects: Zypher and Blockpay. Portfolio: madhan.live. Contact: madhanat94@gmail.com.",
+  "badges": [
+    [
+      "OpenAI SC Lead",
+      "Data Engineer"
+    ],
+    [
+      "Full Stack",
+      "Web3 Builder"
+    ],
+    [
+      "GSSoC Contributor"
+    ]
+  ],
+  "overview": [
+    [
+      "Name",
+      "Madhanraj M",
+      "text"
+    ],
+    [
+      "Role",
+      "SDE · Data Engineer",
+      "green"
+    ],
+    [
+      "Location",
+      "Chennai, India",
+      "text"
+    ],
+    [
+      "Education",
+      "B.E. CSE · CIT · 2024–2028",
+      "text"
+    ],
+    [
+      "Focus",
+      "Full Stack · Data · AI/ML",
+      "green"
+    ]
+  ],
+  "stack": [
+    [
+      "Lang.Code",
+      "TS · JS · Python · Solidity",
+      "green"
+    ],
+    [
+      "Lang.Web",
+      "React · Angular · Next.js",
+      "text"
+    ],
+    [
+      "Backend",
+      "Node.js · Express · MongoDB",
+      "text"
+    ],
+    [
+      "Data.Eng",
+      "OpenTelemetry · Grafana",
+      "text"
+    ],
+    [
+      "Cloud",
+      "AWS · Docker · Linux",
+      "text"
+    ]
+  ],
+  "now": [
+    [
+      "Now",
+      "OpenAI SC Campus Lead",
+      "gold"
+    ],
+    [
+      "Program",
+      "McKinsey Forward participant",
+      "text"
+    ]
+  ],
+  "contact": [
+    [
+      "Email",
+      "madhanat94@gmail.com",
+      "text"
+    ],
+    [
+      "LinkedIn",
+      "madhan-fullstack-developer",
+      "green"
+    ],
+    [
+      "GitHub",
+      "@Madan94",
+      "text"
+    ],
+    [
+      "Website",
+      "madhan.live",
+      "text"
+    ],
+    [
+      "X",
+      "@Madhan9339",
+      "text"
+    ]
+  ],
+  "highlights": [
+    [
+      "Selected",
+      "1 of 100 Campus Leads in India",
+      "green"
+    ],
+    [
+      "Interned",
+      "RenewCred · Aeroin · Genius Tute",
+      "green"
+    ],
+    [
+      "Community",
+      "GSSoC · TEDxCIT · Tezos Nexus",
+      "text"
+    ],
+    [
+      "Impact",
+      "Genius Tute: 30% faster load",
+      "text"
+    ]
+  ],
+  "currently": [
+    "🧠 &nbsp;**OpenAI Student Collective Campus Lead** — leading AI workshops and hands-on learning at Chennai Institute of Technology; selected among 100 Campus Leads across India.",
+    "🌱 &nbsp;**McKinsey Forward participant** · B.E. Computer Science & Engineering at **Chennai Institute of Technology (2024–2028)**.",
+    "🛠️ &nbsp;**Projects on GitHub** — [Zypher](https://github.com/Madan94/zypher), blockchain-based digital prescriptions (team lead, full-stack & Web3); [Blockpay](https://github.com/Madan94/blockpay), a UPI-style app for everyday crypto payments.",
+    "🤝 &nbsp;**Open to meaningful collaborations** — full-stack, data engineering, Web3, and AI/ML · [Portfolio](https://madhan.live) · [LinkedIn](https://www.linkedin.com/in/madhan-fullstack-developer/) · [Email](mailto:madhanat94@gmail.com)."
+  ],
+  "mission": "Building clean, efficient, and user-friendly digital solutions."
+}
